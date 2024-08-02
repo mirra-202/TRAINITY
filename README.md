@@ -1,9 +1,9 @@
 # TRAINITY
 
-**Overview**
+**OVERVIEW** <br>
 This repository showcases a collection of data analytics projects completed as part of my academic and professional journey. The projects demonstrate my ability to apply data analysis, statistical methods, and visualization techniques using various tools and programming languages. The portfolio includes analyses on diverse topics, from social media user behavior to operational metrics, highlighting my proficiency in tools like Excel, SQL, and Python.
 
-**Table of Contents**
+**TABLE OF CONTENTS**
 1. Data Analytics Process
 2. Instagram User Analytics
 3. Operation Analytics and Investigating Metric Spike
